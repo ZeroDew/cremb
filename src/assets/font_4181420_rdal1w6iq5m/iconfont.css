@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4181420 */
+  src: url('iconfont.woff2?t=1690202605945') format('woff2'),
+       url('iconfont.woff?t=1690202605945') format('woff'),
+       url('iconfont.ttf?t=1690202605945') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fenlei1:before {
+  content: "\e65c";
+}
+
+.icon-biaoqiankuozhan_fenlei-382:before {
+  content: "\ebef";
+}
+
+.icon-wode:before {
+  content: "\e60d";
+}
+
+.icon-wode1:before {
+  content: "\e60c";
+}
+
